@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<head>
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+
+    <h1>Curriculum Vitae</h1>
+	<p>Ik ben een gemotiveerde student die momenteel
+Bedrijfsondersteunende Informatica Wetenschappen
+volgt. Met een sterke interesse in technologie en
+ondersteuning, heb ik ook ervaring in de retail en logistieke
+sector. Ik zoek naar mogelijkheden om mijn vaardigheden
+verder te ontwikkelen in een professionele omgeving.
+</p>
+	
+	<nav>
+<a href="html/persoonlijkegegevens.html"/>Persoonlijke gegevens</a> 
+<a href="html/werkervaring.html"/>Werkervaring</a> 
+<a href="html/vaardigheden.html"/>Vaardigheden</a> 
+<a href="html/hobbys.html"/>Hobby's</a>
+</nav>
+
+
+	
+</html>
