@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+<title>Persoonlijke gegevens</title>
+</head>
+<body>
+<h2>Persoonlijke gegevens</h2>
+   <p><b>Naam:</b> Aymane El Bouddounti<br>
+	 <b>Adres:</b> Meerlenhoflaan 48<br>
+	 <b>Contact:</b> aymane.elbouddounti@gmail.com<br>
+	 <a href="https://be.linkedin.com/in/anass-bouddounti-963a55159">Linkedin profiel</a>
+	</p>
+</body>
